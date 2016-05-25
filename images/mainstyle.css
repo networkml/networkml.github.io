@@ -119,7 +119,7 @@
 
 .headtitle {
     /* Give a bit of gap between cover image and text. */
-    padding-top: 2px;
+    padding-top: 4px;
     /* Text must be justified at both ends. */
     text-align: justify;
     text-justify: inter-word;
@@ -128,4 +128,5 @@
     font-size: 25px;
     color: black;
     text-align: center;
+    padding-bottom: 3px;
 }
