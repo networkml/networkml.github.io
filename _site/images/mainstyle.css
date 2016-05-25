@@ -116,3 +116,16 @@
     color: black;
     text-align: left;
 }
+
+.headtitle {
+    /* Give a bit of gap between cover image and text. */
+    padding-top: 2px;
+    /* Text must be justified at both ends. */
+    text-align: justify;
+    text-justify: inter-word;
+    /* Font family. */
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
