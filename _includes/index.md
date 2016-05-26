@@ -39,7 +39,7 @@ Submitted papers must be no longer than 6 pages (US letter size, 10 point font, 
 
 ## Organizers ##
 
-Workshop co-chairs:
+Program Co-chairs:
 
 * [Henry Xu](http://www.cs.cityu.edu.hk/~hxu/index.html), City University of Hong Kong, HK
 * [Baochun Li](http://iqua.ece.toronto.edu/bli/), University of Toronto, Canada
