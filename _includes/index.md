@@ -45,7 +45,7 @@ Workshop co-chairs:
 * Baochun Li, University of Toronto, Canada
 * Yanhui Geng, Huawei Noah’s Ark Lab, HK
 
-Program Committee: TBD
+Program Committee: (continuously being updated)
 
 * George Trimponias, Huawei Noah’s Ark Lab, HK
 * Pascal Poupart, University of Waterloo, Canada
