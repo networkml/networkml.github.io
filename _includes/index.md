@@ -47,6 +47,8 @@ Workshop co-chairs:
 
 Program Committee: TBD
 
+* George Trimponias, Huawei Noah’s Ark Lab, HK
+* Pascal Poupart, University of Waterloo, Canada
 
 
 Steering Committee:
