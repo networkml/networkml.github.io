@@ -49,7 +49,8 @@ Program Committee: (continuously being updated)
 
 * George Trimponias, Huawei Noah’s Ark Lab, HK
 * Pascal Poupart, University of Waterloo, Canada
-
+* Chuan Wu, University of Hong Kong, HK
+* Xinyu Zhang, University of Wisconsin at Madison, USA
 
 Steering Committee:
 
