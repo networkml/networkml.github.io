@@ -28,7 +28,7 @@ We encourage the submission of work-in-progress papers in the areas of applying 
 
 ## Submission Instructions ##
 
-Submitted papers must be no longer than 6 pages (US letter size, 10 point font, 12 point leading, 7 inch by 9.25 inch text block) including all content and references. The [sig-alternate-10pt.cls](http://conferences.sigcomm.org/sigcomm/2010/sig-alternate-10pt.cls) style file satisfies the formatting requirements. Compile your source with options that produce letter page size.You can find a pdf copy of the template here. All submissions must include names and affiliations of all authors on the title page (no anonymization). Papers must contain novel ideas and must differ significantly in content from previously published papers and papers under simultaneous submission. 
+Submitted papers must be no longer than 6 pages (US letter size, 10 point font, 12 point leading, 7 inch by 9.25 inch text block) including all content and references. The [sig-alternate-10pt.cls](http://conferences.sigcomm.org/sigcomm/2010/sig-alternate-10pt.cls) style file satisfies the formatting requirements. Compile your source with options that produce letter page size. All submissions must include names and affiliations of all authors on the title page (no anonymization). Papers must contain novel ideas and must differ significantly in content from previously published papers and papers under simultaneous submission. 
 
 ## Important dates ##
 
