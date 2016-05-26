@@ -41,9 +41,9 @@ Submitted papers must be no longer than 6 pages (US letter size, 10 point font, 
 
 Workshop co-chairs:
 
-* Henry Xu, City University of Hong Kong, HK
-* Baochun Li, University of Toronto, Canada
-* Yanhui Geng, Huawei Noah’s Ark Lab, HK
+* [Henry Xu](http://www.cs.cityu.edu.hk/~hxu/index.html), City University of Hong Kong, HK
+* [Baochun Li](http://iqua.ece.toronto.edu/bli/), University of Toronto, Canada
+* [Yanhui Geng](https://sites.google.com/site/yhgeng/), Huawei Noah’s Ark Lab, HK
 
 Program Committee: (continuously being updated)
 
