@@ -55,6 +55,7 @@ Program Committee: (continuously being updated)
 * Pascal Poupart, University of Waterloo, Canada
 * Prem Sankar, Ericsson
 * George Trimponias, Huawei Noah’s Ark Lab, HK
+* Wei Wang, HKUST, HK
 * Chuan Wu, University of Hong Kong, HK
 * Xinyu Zhang, University of Wisconsin at Madison, USA
 
