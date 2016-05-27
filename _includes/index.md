@@ -55,7 +55,7 @@ Program Committee: (continuously being updated)
 * Guanfeng Liang, Facebook, USA
 * Fangming Liu, Huazhong University of Science and Technology, China
 * Pascal Poupart, University of Waterloo, Canada
-* Chen Qian, University of Kentucky, USA
+* Chen Qian, University of California Santa Cruz, USA
 * Prem Sankar, Ericsson
 * George Trimponias, Huawei Noah’s Ark Lab, HK
 * Wei Wang, HKUST, HK
