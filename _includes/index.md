@@ -49,10 +49,13 @@ Program Co-chairs:
 Program Committee: (continuously being updated)
 
 * Kai Chen, HKUST, HK
+* Minghua Chen, Chinese University of Hong Kong, HK
 * Yuling Chen, Cisco, USA
 * Zhitang Chen, Huawei Noah's Ark Lab, HK
 * Guanfeng Liang, Facebook, USA
+* Fangming Liu, Huazhong University of Science and Technology, China
 * Pascal Poupart, University of Waterloo, Canada
+* Chen Qian, University of Kentucky, USA
 * Prem Sankar, Ericsson
 * George Trimponias, Huawei Noah’s Ark Lab, HK
 * Wei Wang, HKUST, HK
