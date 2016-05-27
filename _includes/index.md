@@ -51,8 +51,9 @@ Program Committee: (continuously being updated)
 * Yuling Chen, Cisco, USA
 * Zhitang Chen, Huawei Noah's Ark Lab, HK
 * Guanfeng Liang, Facebook, USA
-* George Trimponias, Huawei Noah’s Ark Lab, HK
 * Pascal Poupart, University of Waterloo, Canada
+* Prem Sankar, Ericsson
+* George Trimponias, Huawei Noah’s Ark Lab, HK
 * Chuan Wu, University of Hong Kong, HK
 * Xinyu Zhang, University of Wisconsin at Madison, USA
 
