@@ -21,6 +21,7 @@ We encourage the submission of work-in-progress papers in the areas of applying 
 * Security, performance, and monitoring applications using machine learning
 * Implications and challenges brought by computer networks to machine learning theory and algorithms
 * Data-driven network architecture design
+* Application-driven network architecture design 
 * Data analytics for network information mining
 * Deep learning and reinforcement learning in network control
 * Learning-based network optimization
