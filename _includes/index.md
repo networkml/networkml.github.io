@@ -14,16 +14,16 @@ NetworkML 2016 provides a venue for presenting innovative ideas to discuss futur
 We encourage the submission of work-in-progress papers in the areas of applying machine learning for network design, implementation, measurement, management, deployment, as well as implications of computer networks to machine learning algorithms. We look for submissions of previously unpublished work on topics including, but not limited to, the following:
 
 * Protocol design and optimization using machine learning
-* Resource allocation mechanisms for shared/virtualized networks using machine learning
+* Resource allocation for shared/virtualized networks using machine learning
 * Fault-tolerant network protocols using machine learning
 * Machine learning aided network management
-* Experiences and best-practices in using machine learning in operational networks
-* Novel security, performance, and monitoring applications using machine learning
+* Experiences and best-practices using machine learning in operational networks
+* Security, performance, and monitoring applications using machine learning
 * Implications and challenges brought by computer networks to machine learning theory and algorithms
 * Data-driven network architecture design
-* Big-data analytics for network information mining
+* Data analytics for network information mining
 * Deep learning and reinforcement learning in network control
-* Theoretical research on learning-based network optimization
+* Learning-based network optimization
 
 
 ## Submission Instructions ##
