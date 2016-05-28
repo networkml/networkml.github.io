@@ -144,3 +144,9 @@
     text-align: center;
     padding-bottom: 3px;
 }
+
+
+#scroll {  
+    position: absolute;  
+    background: transparent;
+}  
