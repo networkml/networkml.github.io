@@ -1,34 +1,9 @@
 ---
 layout: networkml
 ---
-<div class="content">
-    <table>
-        <tbody><tr>
-            <td width="10%" valign="top">
-                <div class="sidelinks">
-                    <ul>
-                        <div id="scroll">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="#overview">Overview</a></li>  
-                            <li><a href="#call-for-papers">CFP</a></li>  
-                            <li><a href="#submission-instructions">Submission</a></li>  
-                            <li><a href="#important-dates">Important dates</a></li>  
-                            <li><a href="#organizers">Organizers</a></li>  
-                            <li><a href="http://icnp2016.comp.nus.edu.sg">ICNP 2016</a></li> 
-                        </div>
-                    </ul>
-                </div>
-            </td>
 
-            <td width="90%" valign="top"> 
-                <img src="images/banner2.jpg" width="500", height="200" style="float: right; margin: 55px 5px 0px 5px;" />
-                <div class="textualcontent">
-                {% capture my-include %}{% include index.md %}{% endcapture %}
-                {{ my-include | markdownify }}   
-                </div>
-            </td>
 
-            </tr>
-        </tbody>
-    </table>
-</div>
+<img src="images/banner2.jpg" width="500", height="200" style="float: right; margin: 55px 5px 0px 5px;" />
+{% capture my-include %}{% include index.md %}{% endcapture %}
+{{ my-include | markdownify }}   
+              
