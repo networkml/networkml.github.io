@@ -67,6 +67,7 @@
     background-color: white;
 }
 
+
 .sidelinks li a {
     /* Makes the anchor links as clickable blocks (not clickable text). */
     display: block;
