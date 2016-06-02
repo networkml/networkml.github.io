@@ -57,6 +57,7 @@ Program Committee: (continuously being updated)
 * Fangming Liu, Huazhong University of Science and Technology, China
 * John Lui, Chinese University of Hong Kong, HK
 * Xue Liu, McGill University, Canada
+* Brian O'Connor, ON.Lab, USA
 * Pascal Poupart, University of Waterloo, Canada
 * Chen Qian, University of California Santa Cruz, USA
 * Prem Sankar, Ericsson
