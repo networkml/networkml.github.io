@@ -2,6 +2,7 @@
 *   [Overview](#overview)
 *   [CFP](#call-for-papers)
 *   [Submission](#submission-instructions)
+*   [Submission page](https://networkml2016.cs.cityu.edu.hk/hotcrp)
 *   [Important dates](#important-dates)
 *   [Organizers](#organizers)
 *   [ICNP 2016](http://icnp2016.comp.nus.edu.sg)
