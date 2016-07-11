@@ -54,6 +54,7 @@ Program Committee: (continuously being updated)
 * Minghua Chen, Chinese University of Hong Kong, HK
 * Yuling Chen, Cisco, USA
 * Zhitang Chen, Huawei Noah's Ark Lab, HK
+* Zygmunt J. Haas, Cornell University
 * Sheng Jiang, Huawei
 * Guanfeng Liang, Facebook, USA
 * Fangming Liu, Huazhong University of Science and Technology, China
