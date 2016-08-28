@@ -37,7 +37,7 @@ Please upload your submissions to the workshop [submission page](https://network
 
 * Paper submission: ~~July 21, 2016 (23:59 HKT)~~ July 31, 2016 (23:59 HKT) <font color="red">(extended)<font>
 * Notification of decision: August 21, 2016
-* Camera-ready: August 28, 2016 (23:59 HKT)
+* Camera-ready: September 2, 2016 (same as the ICNP main conference)
 
 
 ## Organizers ##
