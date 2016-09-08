@@ -7,6 +7,33 @@ We believe machine learning has strong potential in solving problems in computer
 Research on machine learning in networks is still at an early stage. There is in general a lack of venue dedicated for discussion, promotion, and dissemination of research on machine learning in computer networks.
 NetworkML aims to bring together researchers and practitioners in computer networks, systems, and machine learning to engage in a lively debate on the theory and practice of using machine learning in computer networking research. 
 
+## Program ##
+
+__Online Flow Size Prediction for Improved Network Routing__
+
+Pascal Poupart (University of Waterloo), Zhitang Chen (Huawei Technologies), Priyank Jaini (University of Waterloo), Yanhui Geng (Huawei Technologies), Li Chen, Kai Chen, and Hao Jin (HKUST)
+
+__Machine Learning in Software Defined Networks: Data Collection and Traffic Classification__
+
+Pedro Amaral (Instituto de Telecomunicações; Universidade Nova de Lisboa), João Dinis (Universidade Nova de Lisboa), Paulo Pinto, Luis Bernardo (Instituto de Telecomunicaçõ; Universidade Nova de Lisboa), João Tavares (Reditus Network Innovation, Portugal), and Henrique S. Mamede (Universidade Aberta; INESC TEC)
+
+__Predicting Future Traffic using Hidden Markov Models__
+
+Zhitang Chen (Huawei Technologies), Jiayao Wen (The University of Hong Kong), and Yanhui Geng (Huawei Technologies)
+
+__Enhanced Telemetry for Encrypted Threat Analytics__
+
+David McGrew and Blake Anderson (Cisco)
+
+__MS-LSTM: a Multi-scale LSTM model for BGP anomaly detection__
+
+Min Cheng, Qian Xu (City University of Hong Kong), Jianming Lv (South China University of Technology), Wenying Liu (Guangdong University of Technology), Qing Li, and Jianping Wang (City University of Hong Kong)
+
+__Estimating the Rumor Source with Anti-Rumor in Social Networks__
+
+Jaeyoung Choi, Sangwoo Moon, Jinwoo Shin, and Yung Yi (KAIST)
+
+
 
 ## Call for papers ##
 
