@@ -9,6 +9,10 @@ NetworkML aims to bring together researchers and practitioners in computer netwo
 
 ## Program ##
 
+(8:45--9:45) Opening and Panel Discussion
+
+Panel topic and panelists: TBD
+
 __Online Flow Size Prediction for Improved Network Routing__
 
 Pascal Poupart (University of Waterloo), Zhitang Chen (Huawei Technologies), Priyank Jaini (University of Waterloo), Yanhui Geng (Huawei Technologies), Li Chen, Kai Chen, and Hao Jin (HKUST)
