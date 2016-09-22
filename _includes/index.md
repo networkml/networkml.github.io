@@ -9,23 +9,31 @@ NetworkML aims to bring together researchers and practitioners in computer netwo
 
 ## Program ##
 
-(8:45--9:45) Opening and Panel Discussion
+(8:45--9:45) __Opening and Panel Discussion
 
 Panel topic and panelists: TBD
 
-__Online Flow Size Prediction for Improved Network Routing__
+(9:45--10:00) __Break
+
+(10:00--11:15) __Session 1: Machine learning for network traffic/flow prediction
+
+Online Flow Size Prediction for Improved Network Routing__
 
 Pascal Poupart (University of Waterloo), Zhitang Chen (Huawei Technologies), Priyank Jaini (University of Waterloo), Yanhui Geng (Huawei Technologies), Li Chen, Kai Chen, and Hao Jin (HKUST)
 
-__Machine Learning in Software Defined Networks: Data Collection and Traffic Classification__
+Machine Learning in Software Defined Networks: Data Collection and Traffic Classification__
 
 Pedro Amaral (Instituto de Telecomunicações; Universidade Nova de Lisboa), João Dinis (Universidade Nova de Lisboa), Paulo Pinto, Luis Bernardo (Instituto de Telecomunicaçõ; Universidade Nova de Lisboa), João Tavares (Reditus Network Innovation, Portugal), and Henrique S. Mamede (Universidade Aberta; INESC TEC)
 
-__Predicting Future Traffic using Hidden Markov Models__
+Predicting Future Traffic using Hidden Markov Models__
 
 Zhitang Chen (Huawei Technologies), Jiayao Wen (The University of Hong Kong), and Yanhui Geng (Huawei Technologies)
 
-__Enhanced Telemetry for Encrypted Threat Analytics__
+(11:15--11:25) __Break
+
+(11:25--12:40) __Session 2: Session: Machine learning for anomaly detection  
+
+Enhanced Telemetry for Encrypted Threat Analytics__
 
 David McGrew and Blake Anderson (Cisco)
 
