@@ -9,7 +9,7 @@ NetworkML aims to bring together researchers and practitioners in computer netwo
 
 ## Program ##
 
-(8:45--9:45) __Opening and Panel Discussion
+__(8:45--9:45) Opening and Panel Discussion
 
 Panel topic and panelists: TBD
 
