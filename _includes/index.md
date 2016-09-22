@@ -13,9 +13,9 @@ __(8:45--9:45) Opening and Panel Discussion__
 
 Panel topic and panelists: TBD
 
-__(9:45--10:00) Break
+__(9:45--10:00) Break__
 
-(10:00--11:15) Session 1: Machine learning for network traffic/flow prediction__
+__(10:00--11:15) Session 1: Machine learning for network traffic/flow prediction__
 
 Online Flow Size Prediction for Improved Network Routing
 
@@ -29,9 +29,9 @@ Predicting Future Traffic using Hidden Markov Models
 
 Zhitang Chen (Huawei Technologies), Jiayao Wen (The University of Hong Kong), and Yanhui Geng (Huawei Technologies)
 
-__(11:15--11:25) Break
+__(11:15--11:25) Break__
 
-(11:25--12:40) Session 2: Session: Machine learning for anomaly detection__
+__(11:25--12:40) Session 2: Session: Machine learning for anomaly detection__
 
 Enhanced Telemetry for Encrypted Threat Analytics
 
