@@ -32,6 +32,7 @@ Zhitang Chen (Huawei Technologies), Jiayao Wen (The University of Hong Kong), an
 __(10:45--11:00) Break__
 
 __(11:00--11:30) Industry Talk__
+
 Speaker: Yanhui Geng (Huawei)
 
 Title: TBD
