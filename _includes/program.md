@@ -1,9 +1,3 @@
----
-layout: networkml
----
-
-
-              
 ## Program ##
 
 __(8:45--9:45) Opening and Panel Discussion__
