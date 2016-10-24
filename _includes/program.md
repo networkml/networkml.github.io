@@ -37,7 +37,7 @@ Speaker: Yanhui Geng (Huawei)
 Title: TBD
 
 
-__(11:30--12:30) Session 2: Session: Machine learning for anomaly detection__
+__(11:30--12:30) Session 2: Machine learning for anomaly detection__
 
 Enhanced Telemetry for Encrypted Threat Analytics
 
