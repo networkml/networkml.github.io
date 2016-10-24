@@ -1,8 +1,10 @@
 ## Program ##
 
-__(8:45--9:45) Opening and Keynote__
+__(8:30--8:45) Opening__
 
-Keynote Speaker: David McGrew (Cisco), Cisco Fellow.
+__(8:45--9:45) Keynote__
+
+Speaker: David McGrew (Cisco), Cisco Fellow.
 
 Title: Machine Learning and Network Threat Detection: Hype, Criticism, and Promise
 
@@ -11,11 +13,9 @@ Abstract: Can threats and malware be detected by applying machine learning to ne
 Bio: 
 David McGrew is a Fellow in the Security and Trust Organization at Cisco Systems, where he works to improve security through applied research, standards, and product engineering.  David's current interests include the detection of threats using network technologies and the development of more secure cryptographic systems.  He also acts as an advisor in the areas of technology, business, and intellectual property.  
 
-David was instrumental in the development of several cryptographic algorithms and protocols, including industry standards such as the Galois/Counter Mode of operation for efficient and scalable authenticated encryption, and Secure RTP for encrypted voice and video.  He has contributed to many research results, and to 50 U.S. patents.  He was a founder and co-chair of the IRTF Crypto Forum Research Group, and was active in the IETF.  Previously, David formed and managed Cisco’s Advanced Cryptography Development Group, which developed the technologies used in Cisco’s Dynamic Multipoint VPN and Group Encrypted Transport VPN products.   He was a Cryptographic Scientist at Trusted Information Systems before joining Cisco in 1998. David holds a Ph.D. in Physics and lives in the Washington, D.C. area.  Some of David's technical publications are online at http://www.mindspring.com/~dmcgrew/dam.htm
+David was instrumental in the development of several cryptographic algorithms and protocols, including industry standards such as the Galois/Counter Mode of operation for efficient and scalable authenticated encryption, and Secure RTP for encrypted voice and video.  He has contributed to many research results, and to 50 U.S. patents.  He was a founder and co-chair of the IRTF Crypto Forum Research Group, and was active in the IETF. Previously, David formed and managed Cisco’s Advanced Cryptography Development Group, which developed the technologies used in Cisco’s Dynamic Multipoint VPN and Group Encrypted Transport VPN products.   He was a Cryptographic Scientist at Trusted Information Systems before joining Cisco in 1998. David holds a Ph.D. in Physics and lives in the Washington, D.C. area.  Some of David's technical publications are online at http://www.mindspring.com/~dmcgrew/dam.htm
 
-__(9:45--10:00) Break__
-
-__(10:00--11:15) Session 1: Machine learning for network traffic/flow prediction__
+__(9:45--10:45) Session 1: Machine learning for network traffic/flow prediction__
 
 Online Flow Size Prediction for Improved Network Routing
 
@@ -29,9 +29,15 @@ Predicting Future Traffic using Hidden Markov Models
 
 Zhitang Chen (Huawei Technologies), Jiayao Wen (The University of Hong Kong), and Yanhui Geng (Huawei Technologies)
 
-__(11:15--11:25) Break__
+__(10:45--11:00) Break__
 
-__(11:25--12:40) Session 2: Session: Machine learning for anomaly detection__
+__(11:00--11:30) Industry Talk__
+Speaker: Yanhui Geng (Huawei)
+
+Title: TBD
+
+
+__(11:30--12:30) Session 2: Session: Machine learning for anomaly detection__
 
 Enhanced Telemetry for Encrypted Threat Analytics
 
