@@ -2,11 +2,10 @@
 
 __(8:30--8:45) Opening__
 
-__(8:45--9:45) Keynote__
+__(8:45--9:45) Keynote: Machine Learning and Network Threat Detection: Hype, Criticism, and Promise__
 
 Speaker: David McGrew (Cisco), Cisco Fellow.
 
-Title: Machine Learning and Network Threat Detection: Hype, Criticism, and Promise
 
 Abstract: Can threats and malware be detected by applying machine learning to network data?    There is much promise in this approach, but there is also skepticism from some parts of the research community and some security practitioners.  In this presentation, we argue that the both the critics and the advocates of ML network threat detection are correct, in that naive applications of ML to this problem area have limited value, while at the same time, ML is ideally suited for many tasks in that area.  For instance, (semi-)supervised learning is the appropriate theoretical setting for many instances in which one must generalize from threat intelligence to the detection of threats in data obtained from the real world. Several challenges must be met to make ML effective in practice: data features appropriate to the task must be found, data for training and validation must be collected, and the cost of false positives must be considered. Contextual data sometimes plays an important role. We highlight several results from the literature to support the points, and describe examples from our own experience.  
 
@@ -31,11 +30,10 @@ Zhitang Chen (Huawei Technologies), Jiayao Wen (The University of Hong Kong), an
 
 __(10:45--11:00) Break__
 
-__(11:00--11:30) Industry Talk__
+__(11:00--11:30) Industry Talk: Network Mind: Huawei's next-generation AI-based network control platform__
 
 Speaker: George Trimponias (Huawei)
 
-Title: Network Mind: Huawei's next-generation AI-based network control platform
 
 Abstract: Software-defined networking (SDN) has emerged as the preferred networking approach for large datacenters. Despite its benefits, the rapidly changing traffic patterns and the dynamic nature of the network pose significant challenges to the decision-making process. To address this, George Trimponias will present in this talk the cutting-edge research from the Network Mind project in Huawei Noah’s Ark Lab in devising the new generation of data-driven SDN. The Network Mind architecture consists of components that employ online machine learning techniques to predict the traffic or infer the network state. These results are then used by a network policy module, which devises an optimal routing policy based on a reinforcement learning framework. The idea is to learn from the historical data the policies that maximize a desired objective, e.g., the flow completion time. Extensive experiments with a real SDN testbed demonstrate the effectiveness and feasibility of the self-learning SDN paradigm.
 
