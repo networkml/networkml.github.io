@@ -33,10 +33,13 @@ __(10:45--11:00) Break__
 
 __(11:00--11:30) Industry Talk__
 
-Speaker: Yanhui Geng (Huawei)
+Speaker: George Trimponias (Huawei)
 
-Title: TBD
+Title: Network Mind: Huawei's next-generation AI-based network control platform
 
+Abstract: Software-defined networking (SDN) has emerged as the preferred networking approach for large datacenters. Despite its benefits, the rapidly changing traffic patterns and the dynamic nature of the network pose significant challenges to the decision-making process. To address this, George Trimponias will present in this talk the cutting-edge research from the Network Mind project in Huawei Noah’s Ark Lab in devising the new generation of data-driven SDN. The Network Mind architecture consists of components that employ online machine learning techniques to predict the traffic or infer the network state. These results are then used by a network policy module, which devises an optimal routing policy based on a reinforcement learning framework. The idea is to learn from the historical data the policies that maximize a desired objective, e.g., the flow completion time. Extensive experiments with a real SDN testbed demonstrate the effectiveness and feasibility of the self-learning SDN paradigm.
+
+Bio: George Trimponias received his PhD from the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. Qiang Yang. Prior to that he obtained a five-year diploma in Electrical and Computer Engineering from the National Technical University of Athens, Greece, and worked as a research associate at the Institute of Applied Informatics and Formal Description Methods at KIT, Germany. He is currently a Researcher at Huawei Noah's Ark Lab in Hong Kong. His research interests include network theory, game theory, machine learning theory, and combinatorial optimization.
 
 __(11:30--12:30) Session 2: Machine learning for anomaly detection__
 
