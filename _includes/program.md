@@ -1,5 +1,7 @@
 ## Program ##
 
+__Venue: Room - Evans, 2nd floor, Kent Ridge Guild House (KRGH), 9 Kent Ridge Drive, Singapore 119241__
+
 __(8:30--8:45) Opening__
 
 __(8:45--9:45) Keynote: Machine Learning and Network Threat Detection: Hype, Criticism, and Promise__
