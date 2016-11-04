@@ -51,7 +51,7 @@ Session chair: Zhitang Chen, Huawei
 
 David McGrew and Blake Anderson (Cisco)
 
-***MS-LSTM: a Multi-scale LSTM model for BGP anomaly detection***
+***MS-LSTM: A Multi-scale LSTM Model for BGP Anomaly Detection***
 
 Min Cheng, Qian Xu (City University of Hong Kong), Jianming Lv (South China University of Technology), Wenying Liu (Guangdong University of Technology), Qing Li, and Jianping Wang (City University of Hong Kong)
 
