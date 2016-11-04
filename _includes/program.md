@@ -47,7 +47,7 @@ __(11:30--12:30) Session 2: Machine learning for anomaly detection__
 
 Session chair: Zhitang Chen, Huawei
 
-Enhanced Telemetry for Encrypted Threat Analytics
+_Enhanced Telemetry for Encrypted Threat Analytics_
 
 David McGrew and Blake Anderson (Cisco)
 
