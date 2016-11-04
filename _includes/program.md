@@ -18,6 +18,8 @@ David was instrumental in the development of several cryptographic algorithms an
 
 __(9:45--10:45) Session 1: Machine learning for network traffic/flow prediction__
 
+Session chair: Yung Yi, KAIST
+
 Online Flow Size Prediction for Improved Network Routing
 
 Pascal Poupart (University of Waterloo), Zhitang Chen (Huawei Technologies), Priyank Jaini (University of Waterloo), Yanhui Geng (Huawei Technologies), Li Chen, Kai Chen, and Hao Jin (HKUST)
@@ -42,6 +44,8 @@ Abstract: Software-defined networking (SDN) has emerged as the preferred network
 Bio: George Trimponias received his PhD from the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. Qiang Yang. Prior to that he obtained a five-year diploma in Electrical and Computer Engineering from the National Technical University of Athens, Greece, and worked as a research associate at the Institute of Applied Informatics and Formal Description Methods at KIT, Germany. He is currently a Researcher at Huawei Noah's Ark Lab in Hong Kong. His research interests include network theory, game theory, machine learning theory, and combinatorial optimization.
 
 __(11:30--12:30) Session 2: Machine learning for anomaly detection__
+
+Session chair: Zhitang Chen, Huawei
 
 Enhanced Telemetry for Encrypted Threat Analytics
 
